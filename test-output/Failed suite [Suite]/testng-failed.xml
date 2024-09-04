@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="edgetest(failed)(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="edge"/>
+    <groups>
+      <run>
+        <include name="Sanity"/>
+        <exclude name="Regression"/>
+        <exclude name="Master"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC04_VerifyLogin">
+        <methods>
+          <include name="VerifyLogin"/>
+        </methods>
+      </class> <!-- testCases.TC04_VerifyLogin -->
+      <class name="testCases.TC03_IphoneCart">
+        <methods>
+          <include name="verify_checkout_Iphone"/>
+        </methods>
+      </class> <!-- testCases.TC03_IphoneCart -->
+    </classes>
+  </test> <!-- edgetest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

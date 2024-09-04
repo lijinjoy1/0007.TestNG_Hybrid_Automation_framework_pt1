@@ -1,0 +1,44 @@
+ 13:09:36.985 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Email  
+  13:09:37.039 [main] INFO  testCases.TC05_LoginDataDrivernTest -   password  
+  13:09:45.460 [main] ERROR testCases.TC05_LoginDataDrivernTest -  Test failed
+  13:09:45.572 [main] INFO  testCases.TC05_LoginDataDrivernTest -  ****** TC05_LoginDataDrivernTest started ********
+  13:09:45.618 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Clicked on Myaccount 
+  13:09:45.976 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Clicked on Login 
+  13:09:46.032 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Email  
+  13:09:46.081 [main] INFO  testCases.TC05_LoginDataDrivernTest -   password  
+  13:09:54.508 [main] ERROR testCases.TC05_LoginDataDrivernTest -  Test failed
+  13:09:54.618 [main] INFO  testCases.TC05_LoginDataDrivernTest -  ****** TC05_LoginDataDrivernTest started ********
+  13:09:54.659 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Clicked on Myaccount 
+  13:09:55.005 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Clicked on Login 
+  13:09:55.044 [main] INFO  testCases.TC05_LoginDataDrivernTest -   Email  
+  13:09:55.102 [main] INFO  testCases.TC05_LoginDataDrivernTest -   password  
+  13:09:03.599 [main] ERROR testCases.TC05_LoginDataDrivernTest -  Test failed
+  19:09:59.512 [main] INFO  testCases.TC01_AccountRegistrationTest -   ******** Starting TC01_AccountRegistrationTest ******** 
+  19:09:00.745 [main] INFO  testCases.TC01_AccountRegistrationTest -   Clicked on Myaccount 
+  19:09:01.124 [main] INFO  testCases.TC01_AccountRegistrationTest -   Clicked on Resgister option 
+  19:09:02.079 [main] INFO  testCases.TC01_AccountRegistrationTest -   ******** Finished TC01_AccountRegistrationTest ******** 
+  19:09:05.147 [main] INFO  testCases.TC02_VerifyCheckout -  ****** TC02_VerifyCheckout started ********
+  19:09:05.540 [main] INFO  testCases.TC02_VerifyCheckout -  Checking shopping cart 
+  19:09:05.542 [main] INFO  testCases.TC02_VerifyCheckout -  ****** TC02_VerifyCheckout finished ********
+  19:09:08.030 [main] INFO  testCases.TC03_IphoneCart -  ****** TC03_IphoneCart started ********
+  19:09:08.031 [main] INFO  testCases.TC03_IphoneCart -  ****** verify_checkout_Iphone ********
+  19:09:16.363 [main] INFO  testCases.TC04_VerifyLogin -   ******** Starting TC04_VerifyLogin test ******** 
+  19:09:16.426 [main] INFO  testCases.TC04_VerifyLogin -   Clicked on Myaccount 
+  19:09:16.630 [main] INFO  testCases.TC04_VerifyLogin -   Clicked on Login 
+  19:09:16.749 [main] INFO  testCases.TC04_VerifyLogin -   Email  
+  19:09:16.804 [main] INFO  testCases.TC04_VerifyLogin -   password  
+  21:09:57.749 [main] INFO  testCases.TC01_AccountRegistrationTest -   ******** Starting TC01_AccountRegistrationTest ******** 
+  21:09:58.533 [main] INFO  testCases.TC01_AccountRegistrationTest -   Clicked on Myaccount 
+  21:09:59.649 [main] INFO  testCases.TC01_AccountRegistrationTest -   Clicked on Resgister option 
+  21:09:00.612 [main] INFO  testCases.TC01_AccountRegistrationTest -   ******** Finished TC01_AccountRegistrationTest ******** 
+  21:09:04.183 [main] INFO  testCases.TC02_VerifyCheckout -  ****** TC02_VerifyCheckout started ********
+  21:09:04.711 [main] INFO  testCases.TC02_VerifyCheckout -  Checking shopping cart 
+  21:09:04.713 [main] INFO  testCases.TC02_VerifyCheckout -  ****** TC02_VerifyCheckout finished ********
+  21:09:07.994 [main] INFO  testCases.TC03_IphoneCart -  ****** TC03_IphoneCart started ********
+  21:09:07.995 [main] INFO  testCases.TC03_IphoneCart -  ****** verify_checkout_Iphone ********
+  21:09:14.746 [main] INFO  testCases.TC04_VerifyLogin -   ******** Starting TC04_VerifyLogin test ******** 
+  21:09:14.795 [main] INFO  testCases.TC04_VerifyLogin -   Clicked on Myaccount 
+  21:09:14.992 [main] INFO  testCases.TC04_VerifyLogin -   Clicked on Login 
+  21:09:15.092 [main] INFO  testCases.TC04_VerifyLogin -   Email  
+  21:09:15.150 [main] INFO  testCases.TC04_VerifyLogin -   password  
+ 
